@@ -4,6 +4,7 @@ import { useState } from "react";
 
 const VIBE_OPTIONS = [
   { label: "Sushi", emoji: "🍣" },
+  { label: "Pizza", emoji: "🍕" },
   { label: "Movies", emoji: "🎬" },
   { label: "Fast food", emoji: "🍔" },
   { label: "Motorcycle ride", emoji: "🏍️" },
